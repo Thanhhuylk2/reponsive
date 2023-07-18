@@ -1,0 +1,351 @@
+@charset "utf-8";
+/* CSS Document */
+.logo{
+	height: 50px;
+	font-size: 40px;
+	font-family: 'Montserrat', sans-serif;
+	color: aliceblue;
+}
+.nav{
+	height: 70px;
+}
+.nav ul li{
+	list-style: none;
+	float: left;
+	margin-left: 40px;
+	color: aliceblue;
+	transition: all 0.1s linear;
+	transform: scale(1);
+	font-family: 'Caprasimo', cursive;
+}
+.nav ul li:hover{
+	color: #CACD40;
+	transform: scale(1.05)
+}
+.but1{
+	height: 50px;
+	width:35%;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: aliceblue;
+	font-size: 20px;
+	font-family: 'Caprasimo', cursive;
+	border-radius: 20px;
+	border: 1px solid #F9F3F3;
+}
+.but1:hover{
+	background:#070606;
+}
+.but2{
+	height: 50px;
+	border-radius: 20px;
+	width:35%;
+	float: left;
+	margin-left: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: aliceblue;
+	font-size: 20px;
+	font-family: 'Caprasimo', cursive;
+	border: 1px solid #F9F3F3;
+}
+.but2:hover{
+	background:#070606;
+}
+.headline a3{
+	font-size: 70px;
+	color: aliceblue;
+	font-family: 'Caprasimo', cursive;
+}
+.headline a4{
+	font-size: 25px;
+	color: aliceblue;
+	font-family: 'Bacasime Antique', serif;
+	color: #C9B844;
+}
+.text1 b1{
+	font-size: 60px;
+	color:#D2691E;
+	font-family: 'Caprasimo', cursive;
+}
+.text1 b2{
+	font-size: 14px;
+	color:black;
+}
+.hang3{
+	height: 300px;
+}
+.a2 img{
+	width: 100px;
+}
+.a1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.a2 b3{
+	font-size: 30px;
+	font-family: 'Caprasimo', cursive;
+}
+.a2 b4{
+	font-size: 18px;
+}
+.hang5 c1{
+	font-size: 60px;
+	font-family: 'Caprasimo', cursive;
+	color: aliceblue;
+}
+.hang5 c2{
+	font-size: 15px;
+	color: aliceblue;
+}
+.hang6 c3{
+	font-size: 30px;
+	font-family: 'Caprasimo', cursive;
+	color: aliceblue;
+}
+.hang6 c4{
+	font-size: 15px;
+	color: aliceblue;
+}
+.hang7 d1{
+	font-size: 300%;
+	font-family: 'Caprasimo', cursive;
+	color:chocolate;
+}
+.hang7 d2{
+	font-size: 100%;
+}
+.hang7 d3{
+	font-size: 100%;
+}
+.img1 img{
+	float:left;
+	width: 45%;
+	margin-left:10px;
+	margin-top: 20px;
+	border-radius: 20px;
+}
+.hang8 d1{
+	font-size: 200%;
+	font-family: 'Caprasimo', cursive;
+	color: aliceblue;
+}
+.hang8 d2{
+	color: aliceblue;
+	background: #CE7A43;
+	padding: 10px;
+	border-radius: 20px;
+	transform: scale(1);
+	transition: all 0.2s linear;
+}
+.hang8 d2:hover{
+	background: none;
+	border:1px solid #FBF5F5;
+	transform: scale(1.2);
+	padding: 12px;
+}
+.hang11 img{
+	width: 50%;
+	border-radius: 20px;
+	box-shadow: 20px;
+}
+.hang11 img:hover{
+	background: #674B2A;
+}
+.hang12 e1{
+	font-size: 350%;
+	font-family: 'Caprasimo', cursive;
+	color:chocolate;
+}
+.hang12 e2{
+	font-size: 20px;
+	color: black;
+}
+.hang13 e3{
+	font-size: 80px;
+	font-family: 'Caprasimo', cursive;
+	color:brown;
+	
+}
+.hang13 e4{
+	font-size: 30px;
+	font-family: 'Caprasimo', cursive;
+	color: black;
+}
+.hang14 e1{
+	font-size: 60px;
+	font-family: 'Caprasimo', cursive;
+	color:chocolate;
+	
+}
+.hang14 e2{
+	font-size: 20px;
+	color: black;
+}
+.hang14 img{
+	width: 100px;
+}
+.hang15 img{
+	width: 70px;
+}
+.hang15 e4{
+	font-size:15px;
+}
+.hang15 e5{
+	font-size:30px;
+	font-family: 'Caprasimo', cursive;
+}
+.hang15 e6{
+	font-size:15px;
+}
+.hang16 f1{
+	font-size:40px;
+	font-family: 'Caprasimo', cursive;
+	color: #D2691E
+}
+.hang17 img{
+	width: 320px;
+	margin-left: 55px;
+}
+.b1 img{
+	border-radius: 20px;
+	transition: all 0.2s linear;
+	transform: scale(1);
+}
+.b1 img:hover{
+	transform: scale(1.1);
+}
+.b2 img{
+	border-radius: 20px;
+	transition: all 0.2s linear;
+	transform: scale(1);
+}
+.b2 img:hover{
+	transform: scale(1.1);
+}
+.b3 img{
+	border-radius: 20px;
+	transition: all 0.2s linear;
+	transform: scale(1);
+}
+.b3 img:hover{
+	transform: scale(1.1);
+}
+.b4 img{
+	border-radius: 20px;
+	transition: all 0.2s linear;
+	transform: scale(1);
+}
+.b4 img:hover{
+	transform: scale(1.1);
+}
+.b5 img{
+	border-radius: 20px;
+	transition: all 0.2s linear;
+	transform: scale(1);
+}
+.b5 img:hover{
+	transform: scale(1.1);
+}
+.b6 img{
+	border-radius: 20px;
+	transition: all 0.2s linear;
+	transform: scale(1);
+}
+.b6 img:hover{
+	transform: scale(1.1);
+}
+.hang18 f1{
+	font-size: 60px;
+	font-family: 'Caprasimo', cursive;
+	color:chocolate;
+}
+.hang19 g1{
+	font-size: 20px;
+	color:chocolate;
+}
+.bg{
+	background:#E6A476;
+	padding: 70px;
+}
+n1{
+	color: aliceblue;
+	font-size: 20px;
+}
+.hang20 i1{
+	font-size: 60px;
+	font-family: 'Caprasimo', cursive;
+	color:chocolate;
+}
+.hang21 a5{
+	font-size: 20px;
+	font-family: 'Caprasimo', cursive;
+	color:chocolate;
+}
+.text2 i1{
+	font-size: 18px;
+	color:black;
+}
+.text2 i2{
+	font-size: 60px;
+	color:chocolate;
+    font-family: 'Caprasimo', cursive;
+}
+.text2 i3{
+	font-size: 20px;
+	color:black;
+}
+.text2 i4{
+	font-size: 20px;
+	color:black;
+	background:#448F7B;
+	padding: 15px;
+	margin-top: 20px;
+	border-radius: 20px;
+	color: aliceblue;
+	transition: all 0.2s linear;
+	transform: scale(1)
+}
+.text2 i4:hover{
+	background: #317677;
+	transform: scale(1.1);
+}
+.hang22 img{
+	width: 400px;
+	margin-top: 50px;
+}
+.hang24 i5{
+	font-size: 60px;
+	color:chocolate;
+    font-family: 'Caprasimo', cursive;
+}
+.hang24 i6{
+	font-size: 15px;
+	color:chocolate;
+}
+.hang25 i7{
+	font-size: 25px;
+	color:chocolate;
+	font-family: 'Caprasimo', cursive;
+}
+.hang25 i8{
+	font-size: 20px;
+	color:aliceblue;
+    background: #000000;
+	border-radius: 15px;
+	padding: 10px;
+	transition: all 0.2s linear;
+}
+.hang25 i8:hover{
+	background: #FDF3F3;
+	border:1px solid #030202;
+	color: black;
+}
+.hang26 img{
+	width: 400px
+}
+	
